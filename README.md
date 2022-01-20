@@ -2,8 +2,8 @@
 
 -------------------------------------------------
 
-## Cᴀɴ ʙᴇ ғᴏᴜɴᴅ ᴏɴ Tᴇʟᴇɢʀᴀᴍ ᴀs
-<a href="https://t.me/RealVinCenZo"><img src="https://img.shields.io/badge/HACKER%20BOT-red.svg?logo=Telegram"></a>
+## OUR OFFICIAL CHANNEL
+<a href="https://t.me/RealVinCenZo"><img src="https://img.shields.io/badge/OFFICIAL%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
