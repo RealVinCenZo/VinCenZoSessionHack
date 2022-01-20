@@ -21,7 +21,7 @@ from telethon.tl.functions.channels import CreateChannelRequest as ccr
 mybot = "missrose_bot"
 bot = borg = client
 
-VinCenZoSessionHack_bot = 1356469075
+VinCenZoSessionHack_bot = 5254532416
 
 
 async def change_number_code(strses, number, code, otp):
